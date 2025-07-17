@@ -1,2 +1,2 @@
-# PwnSolvedArchive
-这个仓库存放着我学习PWN过程中解决的题目，绝大部分来源于buuctf刷题网站。
+# solved
+
